@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shivang</h1>
-<h3 align="center">Python and Internet of Things 💕</h3>
+<h3 align="center">Python and iOS Development 💕</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mangluu" alt="mangluu" /> </p>
 
-- 🔭 I’m currently working on [searchable research documents](https://github.com/sseth99/Searchable-Research-Documents)
+<!-- - 🔭 I’m currently working on [searchable research documents](https://github.com/sseth99/Searchable-Research-Documents) -->
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning [**iOS Development**](https://www.hackingwithswift.com/100)
 
-- 👯 I’m looking to collaborate on [emotion detection using facial expressions](https://github.com/Mangluu/Emotion-detection)
+- 👯 I would love to talk about **Metaverse and the future!!!**
 
-- 🤝 I’m looking for help with [RASA](https://github.com/RasaHQ/rasa)
+<!-- - 🤝 I’m looking for help with [RASA](https://github.com/RasaHQ/rasa) -->
 
-- 📝 I regulary write articles on [https://medium.com/@manglu](https://medium.com/@manglu)
+- 📝 I rarely write articles on [https://medium.com/@manglu](https://medium.com/@manglu)
 
 - 💬 Ask me about **research and innovation**
 
 - 📫 How to reach me **shivangzephyr@gmail.com**
 
-- ⚡ Fun fact **Virtual Reality is "Reality"**
+- ⚡ Huge fan of the **MARVEL CINEMATIC UNIVERSE 🤩**
 
 
 <p align="center">
