@@ -42,9 +42,6 @@ I'm a **Doctor of Science** researcher at **Tampere University's Gamification Gr
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Mangluu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2e4d&icon_color=ff4fd8"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mangluu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff2e4d"/>
-
 </div>
 
 ---
