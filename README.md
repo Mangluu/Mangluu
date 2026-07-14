@@ -1,17 +1,18 @@
-<a href="https://sahloka.com">
+<a href="https://mangluu.github.io/ninja-way/" target="_blank" rel="noopener">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e4d,45:1b6ec2,100:ff4fd8&height=230&section=header&text=Shivang%20Gupta&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=World-builder%20·%20XR%20Researcher%20·%20Hackathon%20menace&descAlignY=60&descSize=18&animation=fadeIn" alt="Shivang Gupta"/>
 </a>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1200&color=FF2E4D&center=true&vCenter=true&width=820&lines=D.Sc+%40+Tampere+University%2C+Finland+%F0%9F%87%AB%F0%9F%87%AE;Two-time+Baltic+Sea+Region+Hackathon+champion+%F0%9F%8F%86%F0%9F%8F%86;The+kid+from+Greater+Noida+who+picked+joy+over+an+8+LPA+offer;Building+Sahloka+%E2%80%94+a+world+that+remembers+you;From+stage+fright+to+CHI+2026.+Believe+it." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=26&pause=1200&color=FF2E4D&center=true&vCenter=true&width=820&lines=D.Sc+%40+Tampere+University%2C+Finland+%F0%9F%87%AB%F0%9F%87%AE;Two-time+Baltic+Sea+Region+Hackathon+champion+%F0%9F%8F%86%F0%9F%8F%86;The+kid+from+Greater+Noida+who+picked+joy+over+an+8+LPA+offer;Building+worlds+that+remember+the+people+in+them;From+stage+fright+to+CHI+2026.+Believe+it." alt="typing"/>
 
 <br/>
 
-<a href="https://sahloka.com"><img src="https://img.shields.io/badge/🔮_Sahloka-live-ff4fd8?style=for-the-badge&labelColor=1a0630"/></a>
-<a href="https://mangluu.github.io/ninja-way/"><img src="https://img.shields.io/badge/🥷_The_Ninja_Way-explore_my_world-e5543f?style=for-the-badge&labelColor=1a0630"/></a>
-<a href="https://www.linkedin.com/search/results/all/?keywords=Shivang%20Gupta%20Tampere"><img src="https://img.shields.io/badge/LinkedIn-6.6k+_followers-1b6ec2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:shivangzephyr@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-ff2e4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mangluu.github.io/ninja-way/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/🥷_The_Ninja_Way-explore_my_world-e5543f?style=for-the-badge&labelColor=1a0630"/></a>
+<a href="https://www.linkedin.com/in/i-am-manglu/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-6.6k+_followers-1b6ec2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=xOGFGxsAAAAJ" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Google_Scholar-research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://orcid.org/0009-0000-3669-1040" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/ORCID-green?style=for-the-badge&logo=orcid&logoColor=white"/></a>
+<a href="mailto:shivangzephyr@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-say_hi-ff2e4d?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -33,12 +34,10 @@ I'm a Doctor of Science researcher at **Tampere University's Gamification Group*
 ## 🔮 what I'm building
 
 | | |
-|---|---|
-| **[Sahloka](https://sahloka.com)** 🥇 | A living world where AI agents lead their own lives — you drop in to watch, befriend & join them. *The place that sees you and never lets you be lost.* My magnum opus. |
-| **[Passage](https://mangluu.github.io/passage/)** | Sourced safety & rights briefings, read for *who you are*. Provenance over plausibility. 🏆 b_hack 2026 winner. |
+|---|---|| **[Passage](https://mangluu.github.io/passage/)** | Sourced safety & rights briefings, read for *who you are*. Provenance over plausibility. 🏆 b_hack 2026 winner. |
 | **[VisBaltic](https://mangluu.github.io/visbaltic/)** | An open, source-cited map of how climate change is reshaping the Baltic Sea. 🏆 b_hack 2025 winner. |
 | **[overleaf-comments-export](https://github.com/Mangluu/overleaf-comments-export)** ⭐ | Export Overleaf comments & tracked changes to Markdown/JSON. My most-starred tool. |
-| **[The Ninja Way](https://mangluu.github.io/ninja-way/)** 🥷 | A walkable 3D shinobi village — my portfolio *as a game*. Every project is a place you visit; the summit gate opens to Sahloka. Built with Three.js. |
+| **[The Ninja Way](https://mangluu.github.io/ninja-way/)** 🥷 | A walkable 3D shinobi village — my portfolio *as a game*. Every project is a place you visit, with a summit gate that opens to what's next. Built with Three.js. |
 
 ## 🏆 trophy shelf (a selection — it doesn't all fit)
 
