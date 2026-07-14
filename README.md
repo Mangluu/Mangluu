@@ -27,7 +27,7 @@ I'm a **Doctor of Science** researcher at **Tampere University's Gamification Gr
 | **[The Ninja Way](https://mangluu.github.io/ninja-way/)** 🥷 | My portfolio, except it's a walkable 3D shinobi village — every project is a place you can wander up to. Built with Three.js. |
 | **[Passage](https://mangluu.github.io/passage/)** | Safety & rights briefings that read differently depending on who you are — every claim sourced and dated, and honest when it doesn't know. |
 | **[VisBaltic](https://mangluu.github.io/visbaltic/)** | An open, source-cited map of how climate change is reshaping the Baltic Sea. |
-| **[overleaf-comments-export](https://github.com/Mangluu/overleaf-comments-export)** ⭐ | Export Overleaf comments & tracked changes to Markdown/JSON. My most-starred little tool. |
+| **[overleaf-comments-export](https://github.com/Mangluu/overleaf-comments-export)** ⭐ | Export Overleaf comments & tracked changes to Markdown/JSON. |
 
 ## Toolbox
 
@@ -39,10 +39,6 @@ I'm a **Doctor of Science** researcher at **Tampere University's Gamification Gr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![WebXR](https://img.shields.io/badge/VR_/_XR-ff2e4d?style=flat-square&logo=oculus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino_/_IoT-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-## A few things that went right
-
-A couple of Baltic Sea Region hackathons, some SAP Innovator Challenges, a game jam in Leiden, two patents, and a CHI 2026 demo — alongside a healthy pile of the ones that *didn't* work out. (Those don't come with badges, but I learned more from them.)
 
 <div align="center">
 
