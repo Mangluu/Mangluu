@@ -18,7 +18,7 @@
 + Doctor of Science by day, world-builder the rest of the time.
 ```
 
-I'm a **Doctor of Science** researcher at **Tampere University's Gamification Group**, working on XR, haptics and the metaverse. I grew up in Greater Noida, learned to code on a hand-me-down PC, and somewhere along the way turned *"I'm too nervous to present this"* into *"let me just build you a whole world instead."* I once took the lower-paying job because the work looked more fun — still think that was the right call.
+I'm a **Doctor of Science** researcher at **Tampere University's Gamification Group**, working on XR, haptics and the metaverse. I grew up in Greater Noida, learned to code on a hand-me-down PC, and somewhere along the way turned *"I'm too nervous to present this"* into *"let me just build you a whole world instead."*
 
 ## What I'm building
 
